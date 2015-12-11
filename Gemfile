@@ -3,3 +3,4 @@ ruby "2.2.3"
 
 gem "builder"
 gem "byebug"
+gem "nokogiri"

@@ -1,8 +1,8 @@
 require 'property'
 require 'byebug'
 
-class When
+class Match
   include Property
   extend Property
-  fields :to, :has_the_word, :subject, :from
+  fields :to, :hasTheWord, :subject, :from
 end

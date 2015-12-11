@@ -3,6 +3,9 @@ GEM
   specs:
     builder (3.2.2)
     byebug (8.2.1)
+    mini_portile2 (2.0.0)
+    nokogiri (1.6.7)
+      mini_portile2 (~> 2.0.0.rc2)
 
 PLATFORMS
   ruby
@@ -10,6 +13,7 @@ PLATFORMS
 DEPENDENCIES
   builder
   byebug
+  nokogiri
 
 BUNDLED WITH
    1.10.6
